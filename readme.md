@@ -29,15 +29,10 @@ To get started with this project, you will need to have the following prerequisi
 Clone the repository using the following command:
 ```bash
 git clone https://github.com/coldwater00/WemosWeatherUnd.git
-
-
+```
 
 ## Requirements
 ------------------
-Python Libraries
-ollearn: For using OLLA in the project.
-numpy: For numerical computations.
-pandas: For data manipulation and analysis.
 #### System Requirements
  * Operating System: Windows, macOS, or Linux.
  * Processor: Any modern processor with a good clock speed. ( Tested on Apple M1)

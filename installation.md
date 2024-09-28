@@ -6,6 +6,7 @@
 * [Prerequisites](#prerequisites)
 * [Installation Steps](#installation-steps)
 * [Troubleshooting](#troubleshooting)
+* [Verification](#verification)
 
 ## Prerequisites
 ---------------

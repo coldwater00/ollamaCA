@@ -1,8 +1,6 @@
-#Configure Continue extension for Visul Studio Code
 # Configure Continue extension for Visual Studio Code
 
-### Models
-#### Autodetect Model
+Use this configuration for Chat and Autocomplete
 
 ```json
 "models": [
